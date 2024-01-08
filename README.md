@@ -37,7 +37,7 @@ Build a data lake on AWS and a data catalog following the principles of data lak
 4. Ingesting & organizing data in lakehouse architecture on AWS
 
 
-## [Course 4 - Automoate Data Pipelines](./Course%204-Automate%20Data%20Pipelines/)
+## [Course 4 - Automate Data Pipelines](./Course%204-Automate%20Data%20Pipelines/)
 Dive into the concept of data pipelines. 
 * Focus on applying the data pipeline concepts learn through Apache Airflow - concepts covered including data validation, DAGs, and Airflow. 
 * Venture into AWS quality concepts like copying S3 data, connections and hooks, and Redshift Serverless. 
